@@ -3,7 +3,7 @@
 Welcome to ShiftIt, your reliable partner for moving packages anywhere across the country! Our mission is to provide seamless and efficient package transportation, ensuring your items reach their destination safely and on time.
 
 ## Features
-**Nationwide Coverage:** We deliver to every corner of the country, providing comprehensive service no matter where you are.
+**Nationwide Coverage:** We deliver to every corner of the country, providing comprehensive service no matter where you are. 
 **Reliable and Secure:** Our top priority is the safety and security of your packages. We handle each item with the utmost care.
 **Timely Delivery:** With ShiftIt, you can trust that your packages will arrive on schedule, thanks to our optimized delivery routes and dedicated team.
 **Easy Booking:** Our user-friendly website makes it simple to book a pickup and track your packages in real-time.
